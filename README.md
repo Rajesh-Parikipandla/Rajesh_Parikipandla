@@ -1,5 +1,3 @@
-# Rajesh_Parikipandla
-
 # <img src="https://raw.githubusercontent.com/javascript-tutorial/en.javascript.info/master/1-js/05-data-types/01-number/wave.gif" width="30px"> Hello World, I'm Rajesh Parikipandla!
 
 <p align="left">
