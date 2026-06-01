@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/javascript-tutorial/en.javascript.info/master/1-js/05-data-types/01-number/wave.gif" width="30px"> Hello World, I'm Rajesh Parikipandla!
+# Hello World, I'm Rajesh Parikipandla!
 
 <p align="left">
   <img src="https://komarev.com/ghvc/?username=Rajesh-Parikipandla&label=Profile%20Views&color=0e76a8&style=flat-square" alt="Visitor Counter" />
@@ -14,11 +14,9 @@
 
 ## ⚡ About Me
 
-I am a data-driven professional with 2 years of experience bridging the gap between talent acquisition and technical analysis. Transitioning from a Technical Recruiter background, I leverage a deep understanding of market trends, business requirements, and human capital analytics to uncover meaningful stories hidden within complex data sets. 
+Data Analytics Professional with 2 years of hands-on experience in recruitment data — pipeline tracking, conversion metrics, and stakeholder reporting. Skilled in SQL, Python (Pandas), Power BI, and Advanced Excel. Built end-to-end analytics projects including a Recruitment Funnel Dashboard (559 submissions, $725K revenue tracked) and Amazon E-Commerce Analysis (₹99.41M revenue, 10K orders). Seeking Data Analyst / BI Analyst roles.
 
-- 🔍 **Problem Solver:** Passionate about optimizing workflows and building interactive dashboards that simplify decision-making.
-- ⚡ **Fun Fact:** I love exploring minimalist design layouts and keeping up with the latest trends in cinema.
-- 🌱 **Current Focus:** Continuously engineering end-to-end analytics projects and sharpening my Python automation skills.
+- **Soft Skills:** Analytical Thinking | Problem Solving | Communication | Stakeholder Reporting | Team Collaboration.
 
 ---
 
@@ -36,26 +34,6 @@ I am a data-driven professional with 2 years of experience bridging the gap betw
 ### 🎨 Frontend
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-
----
-
-## 🏆 GitHub Trophies
-🏆 **My Achievements & Milestones**
-[![GitHub Profile Trophies](https://github-profile-trophy.vercel.app/?username=Rajesh-Parikipandla&theme=onedark&column=4)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Rajesh-Parikipandla&show_icons=true&theme=tokyonight&count_private=true" alt="Rajesh's GitHub Stats" height="190px" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajesh-Parikipandla&layout=compact&theme=tokyonight" alt="Top Languages" height="190px" />
-</p>
-
-<p align="center" style="clear: both; padding-top: 20px;">
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rajesh-Parikipandla&theme=tokyonight" alt="GitHub Streak Stats" />
-</p>
 
 ---
 
